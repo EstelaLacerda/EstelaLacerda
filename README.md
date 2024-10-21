@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=2000&lines=Hello+!!+👋+I'm+EstelaLacerda!" alt="Typing SVG" />
+</h1>
 
-<!--
-**EstelaLacerda/EstelaLacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+      <a href="https://www.linkedin.com/in/estela-de-lacerda-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href = "mailto:esteladelac.oli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 
-Here are some ideas to get you started:
+</div>
+<h2 align="center">👩🏻‍💻 Tools | Languages | Frameworks 👩🏻‍💻</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,django,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,mysql,html,css" /><br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
